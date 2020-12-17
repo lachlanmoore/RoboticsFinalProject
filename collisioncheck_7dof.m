@@ -1,4 +1,8 @@
 % function [col_pts, robot] = collisioncheck_7dof()
+
+% This function checks the collision status for all possible joint angles within limits, for the first 3 degrees of freedom
+% The output is the set of angles for which collisions occur
+
 %% Robot Definition
 close all
 

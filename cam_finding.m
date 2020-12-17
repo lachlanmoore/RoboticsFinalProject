@@ -1,5 +1,5 @@
 %% Camera Position Finding
-
+%% This code takes in world coordinate positions and projects them into the image frame to determine image coordinates for two cameras
 
 cam_def;
 cam1 = cam;

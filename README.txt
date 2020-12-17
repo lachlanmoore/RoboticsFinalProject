@@ -1,6 +1,22 @@
-# RoboticsFinalProject
 Robotics 1 Final Project Code
 
-project_qs.xlsx is for path planning
+December 2020
 
-robot_final.csv is for trajectory gen
+Team 2:
+Lachlan Moore
+Ian Pylkkanen
+Sudarshan Thirumalai
+
+MATLAB Scripts:
+---------------
+
+---------------
+
+Data Files:
+---------------
+Path Planning
+project_qs.xlsx 
+
+Trajectory Gen
+robot_final.csv
+---------------

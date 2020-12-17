@@ -1,4 +1,12 @@
 function [poa, poaerr] = camera_robot(uv1, uv2)
+% [poa, poaerr] = camera_robot(uv1, uv2)
+% This function solves the pinhole camera solution for target position in world coordinates
+% Inputs:
+% uv1, uv2: Image coordinates of points of interest
+% 
+% Outputs: 
+% poa: world coordinates
+% poaerr: world position from estimated camera calibration
 
 ex = [1, 0, 0]';
 ey = [0, 1, 0]';

@@ -9,13 +9,13 @@ Sudarshan Thirumalai
 
 MATLAB Scripts:
 ---------------
+SatBotMainScript.m
+SatBotWaypointGen.m
 cam_def.m
 cam_finding.m
 cam_image.m
 camera_robot.m
 collisioncheck_7dof.m
-createWaypointData.m
-manipTrajJoint.m
 Pinhole cam.m
 target_def.m
 ---------------

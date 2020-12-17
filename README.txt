@@ -1,5 +1,5 @@
 Robotics 1 Final Project Code
-
+Rensselaer Polytechnic Institute
 December 2020
 
 Team 2:
